@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xilitolabas868
+- 👀 I’m interested in medical IT industry.
+- 🌱 I’m currently learning front-end especially Javascript.
+- 📫 You can send me an e-mail (xilitolabs868@gmail.com) to reach me.
